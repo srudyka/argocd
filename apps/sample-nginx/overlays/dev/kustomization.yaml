@@ -8,7 +8,7 @@ replicas:
     count: 1
 images:
   - name: nginx
-    newTag: 1.25-alpine
+    newTag: 1.29-alpine
 labels:
   - pairs:
       environment: dev
